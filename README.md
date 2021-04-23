@@ -8,3 +8,5 @@ My name is Wellington Rocha, I'm from brazil  :brazil:  . I am a student of syst
 - 📚 Student at Unicesumar
 
 Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-rocha-a7b34220a/)](https://www.linkedin.com/in/wellington-rocha-a7b34220a/)
